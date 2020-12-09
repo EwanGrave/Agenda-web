@@ -1,2 +1,2 @@
 # Projet Agenda-web
-Agenda perso sur page web en PHP/SQL
+DB configuration : model/TaskManager::getPDO()
